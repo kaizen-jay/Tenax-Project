@@ -1,0 +1,13 @@
+streamlit
+requests
+sentence-transformers
+faiss-cpu
+PyMuPDF
+python-docx
+python-pptx
+matplotlib
+numpy
+pillow
+pygments
+imageio-ffmpeg
+piper-tts
