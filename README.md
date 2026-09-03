@@ -1,3 +1,9 @@
+This is all coded using Claude and ChatGPT...
+
+
+
+
+
 # AI Teacher — Hackathon Submission
 
 A locally-run AI Teacher that ingests uploaded material or a topic, plans a
