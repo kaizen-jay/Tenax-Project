@@ -1,8 +1,7 @@
 This is all coded using Claude and ChatGPT...
 A project built in a hurry..
 But it taught me some lessons that i wont forget. Lessons to manage time.
-Lesson on how to communicate with your team.
-idk, ijdkwhaidkwiwdn
+Lesson on how to communicate with your team....
 
 
 
