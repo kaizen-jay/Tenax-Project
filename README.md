@@ -1,8 +1,8 @@
 This is all coded using Claude and ChatGPT...
 A project built in a hurry..
 But it taught me some lessons that i wont forget. Lessons to manage time.
-Lesson on how to communicate with your team....
-
+Lesson on how to communicate with your team.
+Lessons on how to tackle challenges even while you're travelling from one place to another.....
 
 
 # AI Teacher — Hackathon Submission
